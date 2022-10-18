@@ -1,0 +1,6 @@
+Objetos: es una coleccion de propiedades, nos dan la posibilidad de hacer estuctura de datos donde tenga propiedades que sean nombres que esten asociados a un valor, y de eesa forma puedo modelar el mundo mas facil
+Propiedades: una propiedad es una asociación entre un nombre (o clave) y un valor
+Métodos: las funciones guardadas en un objeto son los metodos
+Bucle for…in: como los objetos no tienen indice numericos javascript tiene un segundo tipo bucle for integrado que se llama "for...in loop", tiene una sintaxis diferente a los array.
+Notación de puntos vs notación de corchetes: con notacion de putnos podes acceder a las propiedades escribiendo . y el nombre de la propiedad. la ventaja es que es facil de escribir. pero para recorrer alguna variable u objeto vamos a utilizar la notacion de corchetes.
+ 
