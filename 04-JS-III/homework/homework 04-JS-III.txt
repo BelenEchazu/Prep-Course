@@ -1,0 +1,1 @@
+Arrays: son arreglos o matrices, en el cual podemos contener almacenamientos para colecciones de datos. Nos sirve cuando tenemos más de un dato y tipo de datos. 
