@@ -1,0 +1,1 @@
+Funciones Callback: un concepto muy importante en javascript es la capacidad de pasar una funcion como argumento a otra funcion. La convencion es usar cb como argumento para la variable que se usará de callback.
