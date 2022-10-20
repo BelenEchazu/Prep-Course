@@ -1,0 +1,2 @@
+prototype: es la forma unica que tienen las clases de establecer un metodo una vez y dar acceso a cada objeto de esa clase.
+Constructors (de Clases): el metodo constructor es un metodo especial de javascript para crear e inicializar un objeto creado a partir de una clase.
